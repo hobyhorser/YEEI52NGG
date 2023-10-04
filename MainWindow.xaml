@@ -1,0 +1,23 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="Логин" FontSize="13" Margin="10,10" Name="Log"/>
+                <TextBox FontSize="20" Width="170" Height="30" Name="log"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="Пароль" FontSize="13" Margin="10,10" Name="Parol"/>
+                <TextBox FontSize="20" Width="150" Height="33" Name="parol"/>
+                <Button Content="123" Click="Button_Click" Margin="10,10" Width="142"/>
+                <TextBox FontSize="20" Width="219" Height="34" Name="www"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>
