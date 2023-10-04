@@ -2,7 +2,9 @@
 ## Работа  с git 
 
 
-<p allign="center"><https://krasivosti.pro/uploads/posts/2021-04/1617975977_9-p-milii-grustnii-kotik-9.jpg width="350"></p>
+<p allign="center"><img src="https://krasivosti.pro/uploads/posts/2021-04/1617975977_9-p-milii-grustnii-kotik-9.jpg" width="350"></p>
+
+
 -----
 
 * Группа 21ис-1
